@@ -6,7 +6,7 @@ If you don't like Wayland too much, then you can check out https://github.com/Al
 
 CWDE and GLXE will both be present on the install tool with Anaconda motor.
 
-> [NOTE]
+>  [!NOTE]
 > This is currently on developing,there will be a temporal private repository for developing CWDE
 >
 > 
