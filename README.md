@@ -7,6 +7,6 @@ If you don't like Wayland too much, then you can check out https://github.com/Al
 CWDE and GLXE will both be present on the install tool with Anaconda motor.
 
 >  [!NOTE]
-> This is currently on developing,there will be a temporal private repository for developing CWDE
->
-> 
+> This project is no longer supported and avaiable,the developement is cancelled,GLXE will be the default Desktop enviroment for AltusOS
+> Probally another project that will replace CWDE will be on developing Soon
+
